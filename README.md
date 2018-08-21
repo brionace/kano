@@ -1,4 +1,4 @@
-# Kano Task
+# Kano
 
 ## How to use
 
